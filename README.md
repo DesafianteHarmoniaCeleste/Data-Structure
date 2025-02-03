@@ -1,4 +1,5 @@
 / *** DE2 *** /   
+TP03 - all the operations of a Hash table that uses string  
 TP04 - greedy algorithm/ dynamic programming studies    
 / *** DE3 *** /  
 TP01 - basic writting/reading operations in a binary file usign header  
