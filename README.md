@@ -1,4 +1,5 @@
 / *** DE2 *** /   
+TP01 - insertion sort using lists  
 TP02 - Merge / selection and insertion Sorts  
 TP03 - all the operations of a Hash table that uses string  
 TP04 - greedy algorithm/ dynamic programming studies    
